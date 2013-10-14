@@ -41,6 +41,14 @@ p {
     text-align: justify;
 }
 
+.show-description p {
+    height: 150px;
+}
+
+.show-description small {
+    opacity: 1;
+}
+
 .first {
     background-image: url(http://dash.ga.co/assets/firstcourse.jpg);
 }
